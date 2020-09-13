@@ -1,8 +1,3 @@
-
-console.log('Hello from client side')
-
-
-
 const weatherForm = document.querySelector('form')
 const msgOne = document.querySelector('#firstMsg')
 const msgTwo = document.querySelector('#secondMsg')
